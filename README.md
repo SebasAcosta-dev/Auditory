@@ -1,3 +1,4 @@
+ HEAD
 # Asistente de Facturacion Medica por Terminal
 
 Este proyecto crea un asistente CLI para:
@@ -153,3 +154,6 @@ Si quieres, el siguiente paso natural es conectar este CLI con:
 - filtros por fecha o aseguradora,
 - exportacion a Excel o PDF,
 - y una capa RAG mas avanzada con metadatos clinicos y administrativos.
+=======
+# Auditory
+ e23a363ac4284e5c3ad9d9754ddf7ecadfabd010
